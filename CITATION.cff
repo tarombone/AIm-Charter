@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "AI'm Charter"
+version: 1.0.0
+doi: 10.5281/zenodo.17385553
+license: CC-BY-4.0
+authors:
+  - family-names: Fuchigami
+    given-names: Taro
+    affiliation: ADRENA LLC
