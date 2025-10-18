@@ -1,0 +1,9 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "AI'm Charter",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "version": "1.0.0",
+  "inLanguage": ["ja", "en"],
+  "url": "https://github.com/tarombone/AIm-Charter"
+}
