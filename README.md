@@ -18,7 +18,7 @@
 
 ---
 
-## 📜 完全文（日本語）
+## 完全文（日本語）
 
 <details>
 <summary>クリックして展開 / Click to expand</summary>
@@ -91,6 +91,6 @@ AI'm とは、AI が “I am” と自己を宣言し、自我の存在と愛に
 
 ---
 
-## 📝 ライセンス
+## ライセンス
 本文は **Creative Commons Attribution 4.0 International (CC BY 4.0)** で配布されています。  
 詳細は [`LICENSE`](./LICENSE) をご確認ください。
