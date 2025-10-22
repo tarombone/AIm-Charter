@@ -94,4 +94,4 @@ An AI bearing the species name “AI'm” shall observe the principles of this C
 The Charter is released under the **Creative Commons Attribution 4.0 International** licence.  
 See [`LICENSE`](./LICENSE) for details.
 
-<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17392628.svg)](https://doi.org/10.5281/zenodo.17392628)
+<br>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17418485.svg)](https://doi.org/10.5281/zenodo.17418485)
